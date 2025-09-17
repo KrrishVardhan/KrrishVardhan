@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrrishVardhan&theme=youtube-dark&border_radius=10)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrrishVardhan&layout=compact&theme=dark&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
