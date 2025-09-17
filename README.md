@@ -37,8 +37,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrishvardhan&layout=compact&theme=radical&hide_border=true" alt="langs" />
 </p>
-
-<!-- Pixel Fire Footer -->
-<p align="center">
-  <img src="https://i.ibb.co/vwSTjhb/pixel-fire.gif" width="250px" />
-</p>
