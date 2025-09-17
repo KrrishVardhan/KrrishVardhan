@@ -25,6 +25,22 @@
 
 ---
 
+## Connect with Me
+  <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
+    <img src="https://img.shields.io/badge/LinkedIn-pixel?style=pixel-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/krrishvardhan">
+    <img src="https://img.shields.io/badge/Twitter(X)-pixel?style=pixel-square&logo=x&logoColor=white&color=000000" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/krrishvardhanvyas/">
+    <img src="https://img.shields.io/badge/Instagram-pixel?style=pixel-square&logo=instagram&logoColor=white&color=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:vyaskrrishvardhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pixel?style=pixel-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
+  </a>
+
+
+
 ## Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krrishvardhan&theme=radical&hide_border=true" alt="streak" />
