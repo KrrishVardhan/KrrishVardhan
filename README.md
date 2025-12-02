@@ -38,18 +38,3 @@
   <a href="mailto:vyaskrrishvardhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-pixel?style=pixel-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
   </a>
-
-
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krrishvardhan&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krrishvardhan&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrishvardhan&layout=compact&theme=radical&hide_border=true" alt="langs" />
-</p>
