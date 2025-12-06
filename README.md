@@ -18,8 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-pixel?style=pixel-square&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-pixel?style=pixel-square&logo=github&logoColor=white&color=100000)
 
----
-
 ## Connect with Me
   <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
     <img src="https://img.shields.io/badge/LinkedIn-pixel?style=pixel-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
