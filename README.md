@@ -5,18 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1800&pause=400&color=50C878&center=true&vCenter=true&width=950&lines=Developer;UI%2FUX+Designer;MERN+%2B+AWS+Learner;Artist+%26+Creator;Building+Projects" alt="Typing SVG" />
 </p>
 
-## Tech Arsenal
-![JavaScript](https://img.shields.io/badge/JavaScript-pixel?style=pixel-square&logo=javascript&logoColor=black&color=F7DF1E)
-![React](https://img.shields.io/badge/React-pixel?style=pixel-square&logo=react&logoColor=61DAFB&color=20232A)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-pixel?style=pixel-square&logo=tailwind-css&logoColor=white&color=38B2AC)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-pixel?style=pixel-square&logo=shadcnui&logoColor=white&color=000000)
-![Node.js](https://img.shields.io/badge/Node.js-pixel?style=pixel-square&logo=node.js&logoColor=white&color=43853D)
-![Express.js](https://img.shields.io/badge/Express.js-pixel?style=pixel-square&logo=express&logoColor=white&color=404D59)
-![MongoDB](https://img.shields.io/badge/MongoDB-pixel?style=pixel-square&logo=mongodb&logoColor=white&color=4EA94B)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-pixel?style=pixel-square&logo=mongodb&logoColor=white&color=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-pixel?style=pixel-square&logo=mysql&logoColor=white&color=00000F)
-![Git](https://img.shields.io/badge/Git-pixel?style=pixel-square&logo=git&logoColor=white&color=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-pixel?style=pixel-square&logo=github&logoColor=white&color=100000)
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Connect with Me
   <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
