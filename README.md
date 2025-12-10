@@ -1,12 +1,10 @@
 # Hi, I'm Krrishvardhan ⚡️
-
 <!-- Glitchy Intro Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1800&pause=400&color=50C878&center=true&vCenter=true&width=950&lines=Developer;UI%2FUX+Designer;MERN+%2B+AWS+Learner;Artist+%26+Creator;Building+Projects" alt="Typing SVG" />
 </p>
 
 ## Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -20,6 +18,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishvardhan&theme=dark&hide_border=true&background=0D1117&ring=50C878&fire=50C878&currStreakLabel=50C878&sideNums=50C878&currStreakNum=50C878&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
+</p>
+
 ## Connect with Me
   <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
     <img src="https://img.shields.io/badge/LinkedIn-pixel?style=pixel-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
@@ -30,6 +33,6 @@
   <a href="https://www.instagram.com/krrishvardhanvyas/">
     <img src="https://img.shields.io/badge/Instagram-pixel?style=pixel-square&logo=instagram&logoColor=white&color=E4405F" alt="Instagram"/>
   </a>
-  <a href="mailto:vyaskrrishvardhan@gmail.com">
+  <a href="https://mailto:vyaskrrishvardhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-pixel?style=pixel-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
   </a>
