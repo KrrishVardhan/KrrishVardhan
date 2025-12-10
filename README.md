@@ -18,11 +18,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krrishvardhan&theme=dark&hide_border=true&background=0D1117&ring=50C878&fire=50C878&currStreakLabel=50C878&sideNums=50C878&currStreakNum=50C878&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak Stats" />
-</p>
-
 ## Connect with Me
   <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
     <img src="https://img.shields.io/badge/LinkedIn-pixel?style=pixel-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
