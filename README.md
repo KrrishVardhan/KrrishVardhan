@@ -1,8 +1,9 @@
 # Hi, I'm Krrishvardhan ⚡️
 <!-- Sneak -->
-<h3 align="center" style="font-family:'Press Start 2P'; color:#50C878;">
-  Learning Open Source
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=50C878&center=true&vCenter=true&width=950&duration=1&pause=999999&lines=Learning+Open+Source" />
+</p>
+
 
 ## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
