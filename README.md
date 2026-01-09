@@ -1,7 +1,7 @@
 # Hi, I'm Krrishvardhan ⚡️
 <!-- Glitchy Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1800&pause=400&color=50C878&center=true&vCenter=true&width=950&lines=Developer;UI%2FUX+Designer;MERN+%2B+AWS+Learner;Artist+%26+Creator;Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1800&pause=600&color=50C878&center=true&vCenter=true&width=950&lines=Learning+Open+Source" alt="Typing SVG" />
 </p>
 
 ## Stack
