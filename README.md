@@ -33,3 +33,6 @@
   <a href="https://mailto:vyaskrrishvardhan@gmail.com">
     <img src="https://img.shields.io/badge/Email-pixel?style=pixel-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
   </a>
+  <a href="https://hashnode.com/@krrishvardhanvyas">
+    <img src="https://img.shields.io/badge/Hashnode-pixel?style=pixel-square&logo=hashnode&logoColor=white&color=2962FF" alt="Hashnode"/>
+  </a>
