@@ -1,7 +1,7 @@
 # Hi, I'm Krrishvardhan
 <!-- Sneak -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=50C878&center=true&vCenter=true&width=950&duration=1&pause=999999&lines=Learning+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=FFFF&center=true&vCenter=true&width=950&duration=1&pause=999999&lines=Never+Settle+For+Mediocrity" />
 </p>
 
 
