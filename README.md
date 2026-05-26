@@ -18,15 +18,27 @@
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
 ## Connect with Me
-  <a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291/">
-    <img src="https://img.shields.io/badge/LinkedIn-pixel?style=pixel-square&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/krrishvardhan">
-    <img src="https://img.shields.io/badge/Twitter(X)-pixel?style=pixel-square&logo=x&logoColor=white&color=000000" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/krrishvardhanvyas/">
-    <img src="https://img.shields.io/badge/Instagram-pixel?style=pixel-square&logo=instagram&logoColor=white&color=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://mailto:vyaskrrishvardhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pixel?style=pixel-square&logo=gmail&logoColor=white&color=D14836" alt="Email"/>
-  </a>
+
+<p align="center">
+  
+<a href="https://github.com/krrishvardhan">
+<img src="https://img.shields.io/badge/GitHub-krrishvardhan-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/krrishvardhan">
+<img src="https://img.shields.io/badge/X-@krrishvardhan-000000?style=flat&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krrishvardhan-vyas-20a21b291">
+<img src="https://img.shields.io/badge/LinkedIn-Krrishvardhan_Vyas-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/krrishvardhan?style=flat&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/krrishvardhan?style=flat&logo=github&label=Stars"/>
+<img src="https://img.shields.io/badge/Repos-41-2563eb?style=flat&logo=github"/>
+
+</p>
