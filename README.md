@@ -38,7 +38,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/github/followers/krrishvardhan?style=flat&logo=github&label=Followers"/>
-<img src="https://img.shields.io/github/stars/krrishvardhan?style=flat&logo=github&label=Stars"/>
 <img src="https://img.shields.io/badge/Repos-41-2563eb?style=flat&logo=github"/>
 
 </p>
